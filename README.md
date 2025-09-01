@@ -26,7 +26,7 @@ A beautiful, modern journaling application with AI-powered mood analysis, built 
 1. **Clone and install dependencies:**
    ```bash
    git clone <your-repo-url>
-   cd mood-journal
+   cd journal
    npm install
    ```
 
