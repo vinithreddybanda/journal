@@ -33,7 +33,7 @@ Remember: You're having a conversation, not giving clinical analysis. Be genuine
           role: 'user',
           content: `Here's my journal entry for today: "${content}"
 
-What do you think? How am I feeling? answer in one line poetic genuie humanly very short`
+What do you think? How am I feeling? answer in one line genuie humanly very short like an insight`
         }
       ],
       model: 'openai/gpt-oss-20b',
