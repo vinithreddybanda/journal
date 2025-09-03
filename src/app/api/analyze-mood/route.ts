@@ -36,7 +36,7 @@ Remember: You're having a conversation, not giving clinical analysis. Be genuine
 What do you think? How am I feeling? answer in one line genuie humanly very short like an insight`
         }
       ],
-      model: 'openai/gpt-oss-20b',
+      model: 'deepseek-r1-distill-llama-70b
       temperature: 0.7,
       max_tokens: 120,
     })
